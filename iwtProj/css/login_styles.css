@@ -1,0 +1,15 @@
+.login_para
+{
+color:blue;
+
+}
+.login_panel
+{
+	  margin-left:30%;
+	  margin-right:35%;
+	  border-radius:20px;
+	  border:2px solid red;
+	  padding:15px 15px 15px 15px;
+	  background-color:lightgreen;
+	
+}
